@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "YiluanChen.github.io"
+  title: "Yiluan"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - hobbies.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: vapor
     css: styles.css
     toc: true
 

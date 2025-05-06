@@ -1,0 +1,19 @@
+---
+title: "hobbies"
+---
+
+## Yoga
+- Practicing yoga helps me relax and stay focused
+- I'm not an expert, but I practice regularly
+
+## Photography
+- I love capturing nature and taking photos of people
+- I use a Canon camera
+
+![Sea](Sea.png)
+
+## Playing Chess
+- Chess helps me think strategically and stay focused. 
+- I enjoy both casual games and online puzzles.
+
+

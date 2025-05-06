@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "YiluanChen.github.io",
+    "title": "Yiluan Chen",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Data visualization with R\nForecasting techniques using time series data\nAdaptability and willingness to learn\n\n\n\n\n\nCollege: University of Colorado, Denver\nGPA: 3.85 / 4.0\nCourses: Operation Management, Macro-Economy, Data Wrangling\nMajor: Economics\n\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     TikTok"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Yiluan Chen",
+    "section": "",
+    "text": "Data visualization with R\nForecasting techniques using time series data\nAdaptability and willingness to learn"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yiluan Chen",
+    "section": "",
+    "text": "College: University of Colorado, Denver\nGPA: 3.85 / 4.0\nCourses: Operation Management, Macro-Economy, Data Wrangling\nMajor: Economics"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "hobbies",
+    "section": "",
+    "text": "Practicing yoga helps me relax and stay focused\nI’m not an expert, but I practice regularly"
+  },
+  {
+    "objectID": "hobbies.html#hobbies",
+    "href": "hobbies.html#hobbies",
+    "title": "hobbies",
+    "section": "",
+    "text": "I’ve been playing the piano for over 8 years. I enjoy expressing emotions through music and learning new classical pieces.\n\n\n\nI love capturing nature and candid moments. I use a Nikon camera and sometimes edit photos using Lightroom.\n\n\n\nPracticing yoga helps me relax and stay focused. I’m not an expert, but I practice regularly.\n\n\n\nMe doing yoga"
+  },
+  {
+    "objectID": "hobbies.html#yoga",
+    "href": "hobbies.html#yoga",
+    "title": "hobbies",
+    "section": "",
+    "text": "Practicing yoga helps me relax and stay focused\nI’m not an expert, but I practice regularly"
+  },
+  {
+    "objectID": "hobbies.html#photography",
+    "href": "hobbies.html#photography",
+    "title": "hobbies",
+    "section": "Photography",
+    "text": "Photography\n\nI love capturing nature and taking photos of people\nI use a Canon camera\n\n\n\n\nSea"
+  },
+  {
+    "objectID": "hobbies.html#playing-chess",
+    "href": "hobbies.html#playing-chess",
+    "title": "hobbies",
+    "section": "Playing Chess",
+    "text": "Playing Chess\n\nChess helps me think strategically and stay focused.\nI enjoy both casual games and online puzzles."
   }
 ]

@@ -1,11 +1,36 @@
 ---
-title: "YiluanChen.github.io"
+title: "Yiluan Chen"
+image: Ling.png
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:chenyiluan73@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+    - text: TikTok
+      icon: tiktok
+      href: https://www.tiktok.com/
+  id: cyl
+
 ---
 
-This is a Quarto website.
+:::{#cyl}
+## Skills
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Data visualization with R
+- Forecasting techniques using time series data
+- Adaptability and willingness to learn
 
-```{r}
-1 + 1
-```
+## Education
+
+- College: University of Colorado, Denver
+- GPA: 3.85 / 4.0
+- Courses: Operation Management, Macro-Economy, Data Wrangling
+- Major: Economics
+
+:::
